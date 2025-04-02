@@ -14,7 +14,25 @@
    <DESCRIPTIONS_SUB>
     <SEOSUBCOTX>
      <CMPNAME>DO_ACTION</CMPNAME>
+     <SCONAME>IF_ARRIVE_ON_POGO_STICK</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Boolean Variable (X = True, - = False, Space = Unknown)</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>DO_ACTION</CMPNAME>
+     <SCONAME>IF_DANCE</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Boolean Variable (X = True, - = False, Space = Unknown)</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>DO_ACTION</CMPNAME>
      <SCONAME>IF_EVERYTHING</SCONAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Boolean Variable (X = True, - = False, Space = Unknown)</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>DO_ACTION</CMPNAME>
+     <SCONAME>IF_SING</SCONAME>
      <LANGU>E</LANGU>
      <DESCRIPT>Boolean Variable (X = True, - = False, Space = Unknown)</DESCRIPT>
     </SEOSUBCOTX>
